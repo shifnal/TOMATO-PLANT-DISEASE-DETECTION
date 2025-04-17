@@ -1,1 +1,2 @@
-# TOMATO-PLANT-DISEASE-DETECTION
+# S6-MINI-PROJECT
+Plant Disease Detection Using CNN
